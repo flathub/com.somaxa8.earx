@@ -33,5 +33,5 @@ modules:
     sources:
       - type: git
         url: https://gitlab.com/somaxa8/ear-x
-        tag: v1.0.0
+        tag: v1.0.1
       - cargo-sources.json
